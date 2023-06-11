@@ -1,1 +1,3 @@
 This is text file for GIT assignment
+Update from main branch
+Update from remote
